@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//jagmia2.github.io/portfolio/static/css/main.0c89081e.css",
+    "main.js": "//jagmia2.github.io/portfolio/static/js/main.2592223c.js",
+    "index.html": "//jagmia2.github.io/portfolio/index.html",
+    "main.0c89081e.css.map": "//jagmia2.github.io/portfolio/static/css/main.0c89081e.css.map",
+    "main.2592223c.js.map": "//jagmia2.github.io/portfolio/static/js/main.2592223c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c89081e.css",
+    "static/js/main.2592223c.js"
+  ]
+}
